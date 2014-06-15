@@ -1,5 +1,5 @@
 {
-  "name": "dotty",
+  "name": "dotty-cli",
   "version": "0.1.0",
   "description": "Generate project dotfiles quickly and easily.",
   "main": "index.js",
