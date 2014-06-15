@@ -1,0 +1,21 @@
+{
+  "name": "dotty",
+  "version": "0.1.0",
+  "description": "Generate project dotfiles quickly and easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "dotty": "bin/dotty.js"
+  },
+  "author": "Jack Franklin",
+  "license": "ISC",
+  "dependencies": {
+    "untildify": "0.1.0"
+  },
+  "devDependencies": {
+    "minimist": "0.1.0"
+  }
+}
